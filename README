@@ -1,0 +1,8 @@
+X input using object tracking & your webcam. Invest in a pair of red gloves.
+Requires OpenCV, HighGui and XTest.
+
+To build:
+g++ redglove.cpp -lcv -lhighgui -lXtst
+
+More info:
+http://www.jacobandreas.net/2008/opencv-x-input/
